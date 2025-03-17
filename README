@@ -1,1 +1,26 @@
+# Bank Churn Analysis - Excel Dashboard
+
+## Overview
+This project features an interactive Excel dashboard for analyzing customer churn trends. The dataset provides insights into customer demographics, income levels, and activity status, allowing for data-driven decision-making.
+
+## Dataset
+The dataset is stored in the **BankChurners** sheet and includes key attributes such as:
+- **Attrition_Flag:** Identifies active vs. churned customers.
+- **Customer_Age, Gender, Dependent_count:** Basic demographic details.
+- **Education_Level, Marital_Status, Income_Category:** Socioeconomic factors.
+- **Status:** Indicates customer account activity.
+- **Income Category, Age Category:** Segmentation based on income and age.
+
+## Dashboard & Calculations
+- The **Dashboard** sheet presents key insights using charts and summary tables for visual analysis.
+- The **Real Calculator** sheet performs background computations to support dashboard metrics.
+
+## How to Use
+1. Open the Excel file and navigate to the **Dashboard** sheet.
+2. Interact with the visual elements to explore churn trends.
+3. Refer to the **Real Calculator** sheet for supporting calculations.
+
+## Contact
+For questions or collaborations, feel free to reach out!
+
 
