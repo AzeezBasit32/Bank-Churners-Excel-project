@@ -16,9 +16,10 @@ The dataset is stored in the **BankChurners** sheet and includes key attributes 
 - The **Real Calculator** sheet performs background computations to support dashboard metrics.
 
 ## How to Use
-1. Open the Excel file and navigate to the **Dashboard** sheet.
-2. Interact with the visual elements to explore churn trends.
-3. Refer to the **Real Calculator** sheet for supporting calculations.
+1. Download BankChurner excel file
+2. Open the Excel file and navigate to the **Dashboard** sheet.
+3. Interact with the visual elements to explore churn trends.
+4. Refer to the **Real Calculator** sheet for supporting calculations.
 
 ## Contact
 For questions or collaborations, feel free to reach out!
