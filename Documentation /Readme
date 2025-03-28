@@ -12,6 +12,8 @@ The dataset is stored in the **BankChurners** sheet and includes key attributes 
 - **Income Category, Age Category:** Segmentation based on income and age.
 
 ## Dashboard & Calculations
+- The analysis makes use in-built excel COUNTIFS formula.
+- The interactivity of the analysis page is enabled by the use of option buttons to switch shown values  between counts and percentage views. 
 - The **Dashboard** sheet presents key insights using charts and summary tables for visual analysis.
 - The **Real Calculator** sheet performs background computations to support dashboard metrics.
 
